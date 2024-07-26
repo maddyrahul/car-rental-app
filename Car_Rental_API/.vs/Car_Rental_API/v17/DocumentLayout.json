@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{821786B0-A647-4B8F-9673-C535ACD603A4}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\car2\\car_rental_api\\data_access_layer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821786B0-A647-4B8F-9673-C535ACD603A4}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821786B0-A647-4B8F-9673-C535ACD603A4}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\car2\\car_rental_api\\data_access_layer\\dto\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821786B0-A647-4B8F-9673-C535ACD603A4}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dto\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821786B0-A647-4B8F-9673-C535ACD603A4}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\car2\\car_rental_api\\data_access_layer\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821786B0-A647-4B8F-9673-C535ACD603A4}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B89B810-BCC4-4A0C-A115-B38E2688F8DE}|Business_Layer\\Business_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\car2\\car_rental_api\\business_layer\\data_logic\\iuserlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B89B810-BCC4-4A0C-A115-B38E2688F8DE}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\data_logic\\iuserlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B89B810-BCC4-4A0C-A115-B38E2688F8DE}|Business_Layer\\Business_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\car2\\car_rental_api\\business_layer\\data_logic\\iuserauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B89B810-BCC4-4A0C-A115-B38E2688F8DE}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\data_logic\\iuserauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B89B810-BCC4-4A0C-A115-B38E2688F8DE}|Business_Layer\\Business_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\car2\\car_rental_api\\business_layer\\data_logic\\userauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B89B810-BCC4-4A0C-A115-B38E2688F8DE}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\data_logic\\userauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B89B810-BCC4-4A0C-A115-B38E2688F8DE}|Business_Layer\\Business_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\car2\\car_rental_api\\business_layer\\data_logic\\userlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B89B810-BCC4-4A0C-A115-B38E2688F8DE}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\data_logic\\userlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B89B810-BCC4-4A0C-A115-B38E2688F8DE}|Business_Layer\\Business_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\car2\\car_rental_api\\business_layer\\data_logic\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B89B810-BCC4-4A0C-A115-B38E2688F8DE}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\data_logic\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B89B810-BCC4-4A0C-A115-B38E2688F8DE}|Business_Layer\\Business_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\car2\\car_rental_api\\business_layer\\data_logic\\datalogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B89B810-BCC4-4A0C-A115-B38E2688F8DE}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\data_logic\\datalogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE75C549-BA00-4264-BAE1-BF836E6722F7}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\car2\\car_rental_api\\presentation_layer\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE75C549-BA00-4264-BAE1-BF836E6722F7}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Data_Access_Layer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Data_Access_Layer\\Models\\User.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Models\\User.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwCgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T03:47:36.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminDTO.CS",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Data_Access_Layer\\DTO\\AdminDTO.CS",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DTO\\AdminDTO.CS",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Data_Access_Layer\\DTO\\AdminDTO.CS",
+              "RelativeToolTip": "Data_Access_Layer\\DTO\\AdminDTO.CS",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T03:44:54.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Data_Access_Layer\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Data_Access_Layer\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T03:42:59.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserLogic.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Business_Layer\\Data_Logic\\UserLogic.cs",
+              "RelativeDocumentMoniker": "Business_Layer\\Data_Logic\\UserLogic.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Business_Layer\\Data_Logic\\UserLogic.cs",
+              "RelativeToolTip": "Business_Layer\\Data_Logic\\UserLogic.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:34:22.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserLogic.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Business_Layer\\Data_Logic\\IUserLogic.cs",
+              "RelativeDocumentMoniker": "Business_Layer\\Data_Logic\\IUserLogic.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Business_Layer\\Data_Logic\\IUserLogic.cs",
+              "RelativeToolTip": "Business_Layer\\Data_Logic\\IUserLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:33:25.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Business_Layer\\Data_Logic\\UserAuthentication.cs",
+              "RelativeDocumentMoniker": "Business_Layer\\Data_Logic\\UserAuthentication.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Business_Layer\\Data_Logic\\UserAuthentication.cs",
+              "RelativeToolTip": "Business_Layer\\Data_Logic\\UserAuthentication.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAUwGYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:27:38.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Business_Layer\\Data_Logic\\IUserAuthentication.cs",
+              "RelativeDocumentMoniker": "Business_Layer\\Data_Logic\\IUserAuthentication.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Business_Layer\\Data_Logic\\IUserAuthentication.cs",
+              "RelativeToolTip": "Business_Layer\\Data_Logic\\IUserAuthentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:25:53.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Business_Layer\\Data_Logic\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "Business_Layer\\Data_Logic\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Business_Layer\\Data_Logic\\AdminLogin.cs",
+              "RelativeToolTip": "Business_Layer\\Data_Logic\\AdminLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T06:36:28.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataLogic.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Business_Layer\\Data_Logic\\DataLogic.cs",
+              "RelativeDocumentMoniker": "Business_Layer\\Data_Logic\\DataLogic.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Business_Layer\\Data_Logic\\DataLogic.cs",
+              "RelativeToolTip": "Business_Layer\\Data_Logic\\DataLogic.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T06:36:28.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Presentation_Layer\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\car2\\Car_Rental_API\\Presentation_Layer\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Presentation_Layer\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T06:36:28.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
